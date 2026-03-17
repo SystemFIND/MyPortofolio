@@ -1,6 +1,6 @@
-import { cn } from "@/lib/utils"
+import { cn } from "../lib/utils"
 import { Facebook, Instagram, Linkedin, Mail, MapPin, Phone, Send, Twitter } from "lucide-react"
-import { useToast } from "@/hooks/use-toast"
+import { useToast } from "../hooks/use-toast"
 import { useState } from "react"
 
 export const ContactSection = () => {
