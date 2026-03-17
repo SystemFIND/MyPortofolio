@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
   "compilerOptions": {            
     "baseUrl": ".",
+=======
+  "compilerOptions": {    
+>>>>>>> parent of 3a8764b (clear issue)
     "paths": {      
       "@/*": ["src/*"]
     },
